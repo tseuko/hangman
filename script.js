@@ -9,13 +9,13 @@ const resultText = document.getElementById("result-text");
 //options values for buttons
 let options = {
     fruits: [
-        "Apple", "Blueberry", "Mandarin", "Pineapple", "Pomelo", "Pomegranate", "Watermelon"
+        "Apple", "Blueberry", "Mandarin", "Pineapple", "Pomelo", "Pomegranate", "Watermelon", "Persimmon", "Orange", "Banana"
     ],
-    animals: [
-        "Hedgehog", "Rhinoceros", "Squirrel", "Panther", "Walrus", "Zebra"
+    原神: [
+        "Diluc", "Kaeya", "Aether", "Lumine", "Eula", "Nahida", "Wanderer", "Navia", "Albedo", "Alhaitham", "Ayaka", "Ayato", "Baizhu", "Childe", "Cyno", "Dehya", "Furina", "Ganyu", "Hu Tao", "Itto", "Kazuha", "Jean", "Keqing", "Klee", "Kokomi", "Zhongli", "Shenhe", "Venti", "Yelan", "Raiden Shogun", "Ningguang"
     ],
-    countries: [
-        "India", "Hungary", "Kyrgyzstan", "Zimbabwe", "Dominica"
+    random: [
+        "India", "Cat", "Kyrgyzstan", "Pneumonoultramicroscopicsilicovolcanoconiosis", "Pseudopseudohypoparathyroidism", "Floccinaucinihilipilification", "Antidisestablishmentarianism", "Supercalifragilisticexpialidocious", "Incomprehensibilities", "Lego", "clock"
     ],
 };
 
