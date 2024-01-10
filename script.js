@@ -15,7 +15,7 @@ let options = {
         "Diluc", "Kaeya", "Aether", "Lumine", "Eula", "Nahida", "Wanderer", "Navia", "Albedo", "Alhaitham", "Ayaka", "Ayato", "Baizhu", "Childe", "Cyno", "Dehya", "Furina", "Ganyu", "Hu Tao", "Itto", "Kazuha", "Jean", "Keqing", "Klee", "Kokomi", "Zhongli", "Shenhe", "Venti", "Yelan", "Raiden Shogun", "Ningguang"
     ],
     random: [
-        "India", "Cat", "Kyrgyzstan", "Pneumonoultramicroscopicsilicovolcanoconiosis", "Pseudopseudohypoparathyroidism", "Floccinaucinihilipilification", "Antidisestablishmentarianism", "Supercalifragilisticexpialidocious", "Incomprehensibilities", "Lego", "clock"
+        "India", "Cat", "Wordle", "Dog", "Kyrgyzstan", "Dichlorodifluoromethanes", "Electrocardiographically", "Electroencephalographers", "Electroencephalographies", "Intercomprehensibilities", "Incomprehensibilities", "Lego", "clock", "Microelectrophoretically", "Microspectrophotometries", "Overintellectualizations", "Phosphatidylethanolamine", "Carboxymethylcelluloses", "Reinstitutionalizations", "Nonrepresentationalisms"
     ],
 };
 
